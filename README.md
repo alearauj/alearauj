@@ -1,16 +1,20 @@
-### Hi there 👋
+## Olá!  ✨
 
-<!--
-**alearauj/alearauj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Sou a Alessandra Araújo e aqui eu conto um pouco mais sobre a minha trajetória como Analista de Dados. Seja bem-vindo(a)!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Engenheira Mecânica que se aventurou no mundo da tecnologia em 2022.
+- 🌱 
+- 👯 
+- 🤔
+- 💬 
+- 📫
+- 😄 
+- ⚡ 
 -->
+
+
+
+<h3 align="left">Linguagens e ferramentas:</h3>
+</a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
