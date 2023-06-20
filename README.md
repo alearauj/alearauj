@@ -1,6 +1,6 @@
 ## Olá!  ✨
 
-##### Sou a Alessandra Araújo e aqui eu conto um pouco mais sobre a minha trajetória como Analista de Dados. Seja bem-vindo(a)!
+#### Sou a Alessandra Araújo e aqui eu conto um pouco mais sobre a minha trajetória como Analista de Dados. Seja bem-vindo(a)!
 
 - 🔭 Engenheira Mecânica que se aventurou no mundo da tecnologia em 2022.
 - 🌱 
