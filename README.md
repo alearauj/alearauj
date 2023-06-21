@@ -2,7 +2,7 @@
 
 #### Sou a Alessandra Araújo e aqui eu conto um pouco mais sobre a minha trajetória como Analista de Dados. Seja bem-vindo(a)!
 
-- 🔭 Engenheira Mecânica que se aventurou no mundo da tecnologia desde 2022.
+- 🔭 Engenheira Mecânica que se aventurou no mundo da tecnologia em 2022.
 - 🌱 Atualmente estou aprendendo Python.
 - 💬 Me pergunte sobre processos de análise, estatística, ferramentas e linguagens como Power BI, Python, SQL e MetaBase.
 - 🤔 Aceito feedback sobre os meus códigos. Assim, aprenderemos juntos!
