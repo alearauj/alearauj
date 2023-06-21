@@ -13,8 +13,8 @@
 </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-<img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png"width="40" height=40"/>
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"width="40" height=40"/>
+</a> <a href="https://www.microsoft.com" target="_blank" rel="noreferrer">  <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png"width="40" height=40"/>
+</a> <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"width="40" height=40"/>
 
 ##
 <div align="center">
