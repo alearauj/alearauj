@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=alearauj)
+
 ## Olá!  ✨
 
 #### Sou a Alessandra Araújo e aqui eu conto um pouco mais sobre a minha trajetória como Analista de Dados. Seja bem-vindo(a)!
@@ -24,3 +26,7 @@
 </a>
 </div>
 
+### Entre em contato 📫
+
+[![Gmail Badge](https://img.shields.io/badge/-alessandrap.araujo36@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alessandrap.araujo36@gmail.com)](mailto:alessandrap.araujo36@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Alessandra_Araújo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandrap-araujo/)](https://www.linkedin.com/in/alessandrap-araujo/) 
