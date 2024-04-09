@@ -9,7 +9,7 @@ Aqui eu conto um pouco mais sobre a minha trajetória como Analista de Dados. Se
 
 ### Últimos posts
 * [O meu ano do não](https://www.linkedin.com/pulse/o-meu-ano-do-n%25C3%25A3o-alessandra-ara%25C3%25BAjo-kd4dc/?trackingId=ysGh7iItRXG4TrT4ZNoHyw%3D%3D)
-* [Diferença entre análise de dados e análise de negócios] (https://www.linkedin.com/posts/alessandrap-araujo_come%C3%A7ar-na-%C3%A1rea-de-dados-pode-ser-confuso-activity-7167880997437472768-JU6w?utm_source=share&utm_medium=member_desktop)
+* [Diferença entre análise de dados e análise de negócios](https://www.linkedin.com/posts/alessandrap-araujo_come%C3%A7ar-na-%C3%A1rea-de-dados-pode-ser-confuso-activity-7167880997437472768-JU6w?utm_source=share&utm_medium=member_desktop)
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 </a> <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"width="40" height=40"/>
