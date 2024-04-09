@@ -19,7 +19,7 @@ Aqui eu conto um pouco mais sobre a minha trajetória como Analista de Dados. Se
 </a> <a href="https://www.microsoft.com" target="_blank" rel="noreferrer">  <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png"width="40" height=40"/>
 
 
-##
+###
 <div align="center">
   <a href="https://github.com/alearauj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alearauj&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
