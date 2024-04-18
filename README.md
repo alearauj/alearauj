@@ -2,7 +2,7 @@
 
 ## Olá!  ✨
 
-Sou a Alessandra Araújo, Engenheira Mecânica que se aventurou no mundo da tecnologia em 2022. Sou Analista de Dados e faço parte da gestão de um produto de dados que mapeia os processos da área de tecnologia por meio de um indicador de aderência, avaliando o alinhamento das equipes com os processos de tecnologia.
+Sou a Alessandra Araújo, Engenheira Mecânica que se aventurou no mundo da tecnologia em 2022. Sou Analista de Dados e atualmente trabalho com um produto de dados que mapeia os processos da área de tecnologia por meio de um indicador de aderência, avaliando o alinhamento das equipes com os processos de tecnologia.
 
 Aqui eu conto um pouco mais sobre a minha trajetória como Analista de Dados. Seja bem-vindo(a)!
 
